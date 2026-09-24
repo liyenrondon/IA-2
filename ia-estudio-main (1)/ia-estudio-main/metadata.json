@@ -1,0 +1,6 @@
+{
+  "name": "ClusterLab: K-Means & DBSCAN",
+  "description": "Laboratorio lúdico interactivo para aprender algoritmos no supervisados, K-Means y DBSCAN, hiperparámetros y diferencias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
