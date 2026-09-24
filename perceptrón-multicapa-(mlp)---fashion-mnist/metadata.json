@@ -1,0 +1,6 @@
+{
+  "name": "Perceptrón Multicapa (MLP) - Fashion MNIST",
+  "description": "Laboratorio visual e interactivo para comprender los fundamentos del Perceptrón Multicapa (MLP), forward pass, retropropagación, funciones de activación y clasificación con el dataset Fashion MNIST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
